@@ -1,0 +1,4 @@
+/*
+ * UserWishes wishes=wishesStore.get(userId); Set<String>
+ * productsId=wishes.getProducts();
+ */
